@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import argparse
 from PIL import Image
 from PIL.ExifTags import TAGS
